@@ -67,6 +67,7 @@ BlinkerTask led1(500); // 500ms
 BlinkerTask led2(100); // 100ms
 
 int main() {
+    
     HAL_Init();
     
     // Start tasks in FreeRTOS
