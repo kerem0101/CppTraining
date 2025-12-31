@@ -26,7 +26,6 @@ void UpdateSensor(){
         
     } // interrupts are re-enabled here
 }
-        
 
 class ScopedPin {
 private:
